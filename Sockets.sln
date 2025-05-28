@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sockets", "Sockets\Sockets.csproj", "{A6C45E2A-6AB6-45A2-B5E4-F702184221AD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{A6C45E2A-6AB6-45A2-B5E4-F702184221AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{2D91D90A-F97C-4A92-AA81-A6FE5A2F6C4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +14,9 @@ Global
 		{A6C45E2A-6AB6-45A2-B5E4-F702184221AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6C45E2A-6AB6-45A2-B5E4-F702184221AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6C45E2A-6AB6-45A2-B5E4-F702184221AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D91D90A-F97C-4A92-AA81-A6FE5A2F6C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D91D90A-F97C-4A92-AA81-A6FE5A2F6C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D91D90A-F97C-4A92-AA81-A6FE5A2F6C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D91D90A-F97C-4A92-AA81-A6FE5A2F6C4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
