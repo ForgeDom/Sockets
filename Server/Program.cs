@@ -6,7 +6,7 @@ namespace Project;
 
 class Program
 {
-    static void Main(string[] args)
+    static async Task Main(string[] args)
     {
         var listener = new TcpListener(IPAddress.Any, 5001);
         listener.Start();
