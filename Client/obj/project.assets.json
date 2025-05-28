@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\VS\\RiderProjects\\Sockets\\Sockets\\Sockets.csproj",
-      "projectName": "Sockets",
-      "projectPath": "E:\\VS\\RiderProjects\\Sockets\\Sockets\\Sockets.csproj",
+      "projectUniqueName": "E:\\VS\\RiderProjects\\Sockets\\Client\\Client.csproj",
+      "projectName": "Client",
+      "projectPath": "E:\\VS\\RiderProjects\\Sockets\\Client\\Client.csproj",
       "packagesPath": "C:\\Users\\пк\\.nuget\\packages\\",
-      "outputPath": "E:\\VS\\RiderProjects\\Sockets\\Sockets\\obj\\",
+      "outputPath": "E:\\VS\\RiderProjects\\Sockets\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "fallbackFolders": [
